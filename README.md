@@ -9,5 +9,5 @@ Thanks for visiting my Github's profile, here you can find all my work since Dec
 
 ### More useful links to find me up.
 
-— HackTheBox's profile: 0xla (https://app.hackthebox.com/profile/180090) ranked as Pro Hacker. Current TOP 8 Spain :es: (best personal score). Up-to-date (2/02/2022).\
+— HackTheBox's profile: 0xla (https://app.hackthebox.com/profile/180090) ranked as Pro Hacker. Current TOP 7 Spain :es: (best personal score). Up-to-date (5/02/2022).\
 — My personal blog oriented to pentesting and sysadmin stuff (WIP): https://0xla.github.io
